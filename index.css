@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+div{
+    padding-left: 42%;
+    background-color: bisque;
+}
